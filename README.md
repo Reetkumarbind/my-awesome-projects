@@ -1,1 +1,1 @@
-# my-awesome-projects
+# fintech-app-alpha
